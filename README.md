@@ -1,6 +1,7 @@
-Server-side topics:
-SQL injection
-File upload vulnerabilities
+Server-Side topics:
+SQL Injection
+File Upload Vulnerabilities
 Access Control
-Authentication vulnerabilities
-Server-side request forgery (SSRF)
+Authentication Vulnerabilities
+Server-Side Request Forgery (SSRF)
+Command Injection
