@@ -5,3 +5,4 @@ Access Control
 Authentication Vulnerabilities
 Server-Side Request Forgery (SSRF)
 Command Injection
+Path Traversal
