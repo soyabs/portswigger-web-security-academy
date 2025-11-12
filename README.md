@@ -1,5 +1,5 @@
 Server-Side topics:
-SQL Injection
+SQL Injection -> Not properly edited
 File Upload Vulnerabilities
 Access Control
 Authentication Vulnerabilities
@@ -11,5 +11,5 @@ XXE
 ---------------------------------------------
 
 Client-Side topics:
-Cross-site Scripting (XSS)
+Cross-site Scripting (XSS) -> Not properly edited
 Cross-origin resource sharing (CORS)
