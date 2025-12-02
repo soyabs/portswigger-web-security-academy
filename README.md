@@ -7,6 +7,7 @@ Server-Side Request Forgery (SSRF)
 Command Injection
 Path Traversal
 XXE
+API testing
 
 ---------------------------------------------
 
