@@ -8,7 +8,7 @@ Command Injection
 Path Traversal
 XXE
 API testing
-
+NoSQL injection
 ---------------------------------------------
 
 Client-Side topics:
