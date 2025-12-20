@@ -10,6 +10,7 @@ XXE
 API testing
 NoSQL injection
 Business logic vulnerabilities
+
 -------------------------------------------------------------------------
 
 **Client-Side topics:**
