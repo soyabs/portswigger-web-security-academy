@@ -24,5 +24,5 @@ WebSockets
 
 -------------------------------------------------------------------------
 
-**Advanced topics**
+**Advanced topics:**
 JWT Attacks
