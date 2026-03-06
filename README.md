@@ -26,3 +26,4 @@ WebSockets
 
 **Advanced topics:**
 JWT Attacks
+GraphQL API vulnerabilities
