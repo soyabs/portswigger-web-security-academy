@@ -28,3 +28,4 @@ WebSockets
 JWT Attacks
 GraphQL API vulnerabilities
 Server-side template injection
+Web LLM attacks
